@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<protocols>
+	<protocol name="command">
+		<param name="category_id" type="int">50007125</param>
+		<param name="count" type="int">20</param>
+		<param name="recommend_type" type="int">1</param>
+		<param name="ext" type="string"></param>
+	</protocol>
+	<protocol name="header">
+		<param name="protocalVersion" type="int">0</param>
+		<param name="gameId" type="string">flight-us</param>
+		<param name="playerKey" type="string">402880b837e3971e0137e3971e150000</param>
+		<param name="deviceType" type="string">iPod touch</param>
+		<param name="locale" type="string">ja</param>
+		<param name="deviceFamily" type="string">iOS</param>
+		<param name="deviceVersion" type="string">4.2.1</param>
+		<param name="timestamp" type="int">1326680368144</param>
+		<param name="deviceId" type="string">12d869d59e52843e93d5aa4f7a28a155088f5622</param>
+		<param name="mac" type="string">84:29:99:36:a4:49</param>
+		<param name="landlordKey" type="string"></param>
+		<param name="gameVersion" type="int">11</param>
+	</protocol>
+</protocols>
